@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Doctor Robo</string>
+    <string name="welcome_n_doctor_robo_is_here_to_help_you">Welcome !! \n Doctor ROBO IS HERE TO HELP YOU.</string>
+    <string name="enter_your_query">Enter Your Query</string>
+    <string name="user_message">User message</string>
+    <string name="bot_message">Bot message</string>
+</resources>
